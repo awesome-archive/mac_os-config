@@ -3,6 +3,9 @@
 # Acorn
 /Users/bkuhlmann/Library/Preferences/com.flyingmeat.Acorn5.LSSharedFileList.plist
 
+# Alchemists
+/Users/bkuhlmann/Library/Preferences/io.alchemists.www.plist
+
 # Alfred
 /Users/bkuhlmann/Library/Preferences/com.runningwithcrayons.Alfred-3.plist
 /Users/bkuhlmann/Library/Preferences/com.runningwithcrayons.Alfred-Preferences-3.plist
@@ -18,8 +21,14 @@
 # AudioBridge
 /Users/bkuhlmann/Library/Preferences/org.jhurliman.AudioBridge.plist
 
+# Audio Hijack
+/Users/bkuhlmann/Library/Preferences/com.rogueamoeba.audiohijack3.plist
+
 # Aurora Blu-Ray Copy
 /Users/bkuhlmann/Library/Preferences/com.bluray-player-software.AuroraBlurayCopy.plist
+
+# Balena Etcher
+/Users/bkuhlmann/Library/Preferences/io.balena.etcher.plist
 
 # Bartender
 /Users/bkuhlmann/Library/Preferences/com.surteesstudios.Bartender.plist
@@ -63,6 +72,9 @@
 # Firefox
 /Users/bkuhlmann/Library/Preferences/org.mozilla.firefox.plist
 
+# Fission
+/Users/bkuhlmann/Library/Preferences/com.rogueamoeba.Fission.plist
+
 # Google Chrome
 /Users/bkuhlmann/Library/Preferences/com.google.Chrome.plist
 
@@ -98,12 +110,14 @@
 /Users/bkuhlmann/Library/Preferences/com.apple.iTunes.plist
 /Users/bkuhlmann/Library/Preferences/com.apple.iTunesHelper.plist
 
+# KeyCastr
+/Users/bkuhlmann/Library/Preferences/net.stephendeken.KeyCastr.plist
+
 # Keymo
 /Users/bkuhlmann/Library/Preferences/com.manytricks.Keymo.plist
 
-# Marp
-/Users/bkuhlmann/Library/Preferences/jp.yhatt.marp.helper.plist
-/Users/bkuhlmann/Library/Preferences/jp.yhatt.marp.plist
+# LimeChat
+/Users/bkuhlmann/Library/Preferences/net.limechat.LimeChat-AppStore.plist
 
 # Max
 /Users/bkuhlmann/Library/Preferences/org.sbooth.Max.LSSharedFileList.plist
@@ -124,31 +138,22 @@
 # Numi
 /Users/bkuhlmann/Library/Preferences/com.dmitrynikolaev.numi.plist
 
-# OmniGraffle
-/Users/bkuhlmann/Library/Preferences/com.omnigroup.OmniGrafflePro.plist
-
 # Path Finder
 /Users/bkuhlmann/Library/Application Support/Path Finder
 /Users/bkuhlmann/Library/Preferences/com.cocoatech.PathFinder.LSSharedFileList.plist
 /Users/bkuhlmann/Library/Preferences/com.cocoatech.PathFinder.plist
 
-# Paw
-/Users/bkuhlmann/Library/Preferences/com.luckymarmot.Paw.plist
-
 # pgAdmin
 /Users/bkuhlmann/Library/Preferences/org.pgadmin.pgAdmin 4.plist
 
-# PSequel
-/Users/bkuhlmann/Library/Preferences/com.psequel.PSequel.plist
+# PixelSnap
+/Users/bkuhlmann/Library/Preferences/pl.maketheweb.pixelsnap2.plist
 
 # Retrobatch
 /Users/bkuhlmann/Library/Preferences/com.flyingmeat.Retrobatch.plist
 
 # Resolutionator
 /Users/bkuhlmann/Library/Preferences/com.manytricks.Resolutionator.plist
-
-# Sequel Pro
-/Users/bkuhlmann/Library/Preferences/com.sequelpro.SequelPro.plist
 
 # Signal
 /Users/bkuhlmann/Library/Preferences/org.whispersystems.signal-desktop.helper.plist
@@ -181,12 +186,6 @@
 /Users/bkuhlmann/Library/Application Support/org.videolan.vlc
 /Users/bkuhlmann/Library/Preferences/org.videolan.vlc.plist
 
-# Witch
-/Users/bkuhlmann/Library/Preferences/com.manytricks.Witch.plist
-
-# Zoom
-/Users/bkuhlmann/Library/Preferences/us.zoom.xos.plist
-
 # SYSTEM
 
 # newsyslog
@@ -195,12 +194,14 @@
 # USER
 /Users/bkuhlmann/.asciinema
 /Users/bkuhlmann/.bundle/config
+/Users/bkuhlmann/.cache
 /Users/bkuhlmann/.config
 /Users/bkuhlmann/.gem/credentials
 /Users/bkuhlmann/.gem/gem-private_key.pem
 /Users/bkuhlmann/.gem/gem-public_cert.pem
 /Users/bkuhlmann/.gitconfig
 /Users/bkuhlmann/.gnupg
+/Users/bkuhlmann/.minisign
 /Users/bkuhlmann/.netrc
 /Users/bkuhlmann/.parallel
 /Users/bkuhlmann/.pgadmin
@@ -209,7 +210,6 @@
 /Users/bkuhlmann/.ssh
 /Users/bkuhlmann/.ssl
 /Users/bkuhlmann/.vscode
-/Users/bkuhlmann/.z
 /Users/bkuhlmann/Apps
 /Users/bkuhlmann/Desktop
 /Users/bkuhlmann/Documents

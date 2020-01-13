@@ -20,9 +20,6 @@ mas install 424425207
 # Bear
 mas install 1091189122
 
-# CCMenu
-mas install 603117688
-
 # Cocoa JSON Editor
 mas install 442160773
 
@@ -41,14 +38,8 @@ mas install 682658836
 # Gifox
 mas install 1082624744
 
-# Gradient
-mas install 481981128
-
 # iMovie
 mas install 408981434
-
-# iPhoto
-mas install 408981381
 
 # Kaleidoscope
 mas install 587512244
@@ -67,6 +58,9 @@ mas install 405399194
 
 # Leech
 mas install 1101735327
+
+# LimeChat
+mas install 414030210
 
 # Marked 2
 mas install 890031187
@@ -118,9 +112,3 @@ mas install 557168941
 
 # WiFi Explorer
 mas install 494803304
-
-# Witch
-mas install 412485838
-
-# xScope
-mas install 447661441

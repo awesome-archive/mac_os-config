@@ -1,3 +1,108 @@
+# 13.0.0 (2020-01-01)
+
+- Added Tokei Homebrew formula.
+- Updated to Dotfiles 36.0.0.
+- Updated to IVPN 2.10.9.
+- Updated to Ruby 2.7.0.
+- Updated to Ruby Setup 13.0.0.
+- Updated to Sublime Text Setup 12.2.0.
+- Updated to Yarn Setup 1.5.5.
+- Removed Cloc Homebrew formula.
+
+# 12.2.0 (2019-12-01)
+
+- Added Git Filter Repo application.
+- Added Git Sizer Homebrew formula.
+- Added Hexyl Homebrew formula.
+- Added Homebrew curl retries.
+- Added LimeChat App Store app.
+- Added ripgrep Homebrew formula.
+- Updated to CleanShot 2.7.1.
+- Updated to HandBrake CLI 1.3.0.
+- Updated to IVPN 2.10.5.
+
+# 12.1.0 (2019-11-01)
+
+- Added blueutil Homebrew formula.
+- Updated to CleanShot 2.7.0.
+- Updated to Dotfiles 35.0.0.
+
+# 12.0.0 (2019-10-13)
+
+- Added home cache directory to restore BOM.
+- Updated to PixelSnap 2.2.1.
+- Updated to Rake 13.0.0.
+- Updated to Ruby 2.6.5.
+- Updated to Ruby Setup 12.3.0.
+- Updated to Sublime Text Setup 12.1.0.
+- Updated to Yarn Setup 1.5.4.
+- Removed Audio Bridge application.
+- Removed Cardhop homebrew cask.
+- Removed Certbot Homebrew formula.
+- Removed Keybase Homebrew cask.
+- Removed Launch Control homebrew cask.
+- Removed Mercurial Homebrew formula.
+- Removed OpenEmu Homebrew cask.
+- Removed PSequel Homebrew cask.
+- Removed Tig Homebrew formula.
+- Removed ffsend Homebrew formula.
+- Removed iPhoto App Store app.
+
+# 11.3.0 (2019-10-01)
+
+- Added Audio Hijack Homebrew cask.
+- Added Fission Homebrew cask.
+- Added Nushell Homebrew formula.
+- Added Sox Homebrew formula.
+- Updated to CleanShot 2.6.1.
+- Updated to Dotfiles 34.1.0.
+- Updated to PixelSnap 2.2.0.
+
+# 11.2.0 (2019-09-01)
+
+- Updated to Dotfiles 34.0.0.
+- Updated to Ruby 2.6.4.
+- Updated to Ruby Setup 12.2.3.
+- Updated to Sublime Text Setup 12.0.0.
+- Updated to Yarn Setup 1.5.3.
+
+# 11.1.0 (2019-08-01)
+
+- Added Magic Wormhole Homebrew formula.
+- Added Minisign Homebrew formula.
+- Added Tarsnap Homebrew formula.
+- Added restoration of default Alchemists preferences.
+- Updated to CleanShot 2.6.0.
+- Updated to Dotfiles 33.4.0.
+- Updated to Sublime Text Setup 11.0.0.
+- Refactored printing of system/application defaults.
+
+# 11.0.0 (2019-07-12)
+
+- Fixed CleanShot and PixelSnap application installs.
+- Added Xcode pre-install step to README.
+- Added global hotkey documentation.
+- Updated to HandBrake CLI 1.2.2.
+- Updated to IVPN 2.9.9.
+- Removed CCMenu application.
+- Removed Paw plist from restore BOM.
+- Removed Witch Homebrew cask and App Store app.
+- Removed Zoom Homebrew cask.
+
+# 10.0.0 (2019-07-01)
+
+- Added Balena Etcher Homebrew cask.
+- Added KeyCastr Homebrew cask.
+- Added PixelSnap application.
+- Added ffsend Homebrew formula.
+- Updated to Dotfiles 33.3.0.
+- Removed Brave Browser Homebrew cask installer.
+- Removed Gradient App Store app.
+- Removed Marp Homebrew cask.
+- Removed OmniGraffle application install.
+- Removed ScreenTray application install.
+- Removed xScope App Store application.
+
 # 9.4.0 (2019-06-01)
 
 - Added CleanShot preferences.

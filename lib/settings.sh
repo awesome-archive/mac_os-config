@@ -8,23 +8,26 @@ set -o errexit
 set -o pipefail
 IFS=$'\n\t'
 
+# Homebrew
+export HOMEBREW_CURL_RETRIES=3
+
 # Ruby
-export MRI=2.6.3
+export MRI=2.7.0
 
 # Repositories
-export REPO_RUBY_SETUP=12.2.2
-export REPO_YARN_SETUP=1.5.2
-export REPO_SUBLIME_TEXT_SETUP=10.1.0
-export REPO_DOTFILES=33.2.0
+export REPO_RUBY_SETUP=13.0.0
+export REPO_YARN_SETUP=1.5.5
+export REPO_SUBLIME_TEXT_SETUP=12.2.0
+export REPO_DOTFILES=36.0.0
 
 # Applications
-export AUDIO_BRIDGE_APP_NAME="AudioBridge.app"
-export AUDIO_BRIDGE_VOLUME_NAME="AudioBridge"
-export AUDIO_BRIDGE_APP_URL="https://audiobridge.site/releases/AudioBridge-1.5.1.dmg"
-
 export AURORA_BLU_RAY_COPY_APP_NAME="Aurora Blu-ray Copy.app"
 export AURORA_BLU_RAY_COPY_VOLUME_NAME="Aurora Blu-ray Copy"
 export AURORA_BLU_RAY_COPY_APP_URL="http://www.bluray-player-software.com/user/download/Aurora_Bluray_Copy.dmg"
+
+export CLEAN_SHOT_APP_NAME="CleanShot.app"
+export CLEAN_SHOT_VOLUME_NAME="CleanShot"
+export CLEAN_SHOT_APP_URL="https://updates.getcleanshot.com/v2/CleanShot-2.7.1.dmg"
 
 export CODE_CLIMATE_REPORTER_APP_NAME="cc-test-reporter"
 export CODE_CLIMATE_REPORTER_APP_URL="https://codeclimate.com/downloads/test-reporter/test-reporter-latest-darwin-amd64"
@@ -36,17 +39,20 @@ export DOCKER_APP_NAME="Docker.app"
 export DOCKER_VOLUME_NAME="Docker"
 export DOCKER_APP_URL="https://download.docker.com/mac/stable/Docker.dmg"
 
+export GIT_FILTER_REPO_APP_NAME="git-filter-repo"
+export GIT_FILTER_REPO_APP_URL="https://raw.githubusercontent.com/newren/git-filter-repo/master/git-filter-repo"
+
 export HAND_BRAKE_CLI_APP_NAME="HandBrakeCLI"
-export HAND_BRAKE_CLI_VOLUME_NAME="HandBrakeCLI-1.1.2"
-export HAND_BRAKE_CLI_APP_URL="https://download.handbrake.fr/releases/1.1.2/HandBrakeCLI-1.1.2.dmg"
+export HAND_BRAKE_CLI_VOLUME_NAME="HandBrakeCLI-1.3.0"
+export HAND_BRAKE_CLI_APP_URL="https://download2.handbrake.fr/1.3.0/HandBrakeCLI-1.3.0.dmg"
 
 export IVPN_APP_NAME="IVPN.app"
 export IVPN_VOLUME_NAME="IVPN"
-export IVPN_APP_URL="https://cdn.ivpn.net/releases/osx/IVPN-2.9.4.dmg"
+export IVPN_APP_URL="https://cdn.ivpn.net/releases/osx/IVPN-2.10.9.dmg"
 
-export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
-export OMNIGRAFFLE_VOLUME_NAME="OmniGrafflePro"
-export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg"
+export PIXEL_SNAP_APP_NAME="PixelSnap 2.app"
+export PIXEL_SNAP_VOLUME_NAME="PixelSnap 2"
+export PIXEL_SNAP_APP_URL="https://updates.getpixelsnap.com/v2/PixelSnap-2-2.2.1.dmg"
 
 export RETROBATCH_HANDLER_APP_NAME="Retrobatch.app"
 export RETROBATCH_HANDLER_APP_URL="https://flyingmeat.com/download/Retrobatch.zip"
@@ -54,10 +60,6 @@ export RETROBATCH_HANDLER_APP_URL="https://flyingmeat.com/download/Retrobatch.zi
 export RESOLUTIONATOR_APP_NAME="Resolutionator.app"
 export RESOLUTIONATOR_VOLUME_NAME="Resolutionator"
 export RESOLUTIONATOR_APP_URL="https://manytricks.com/download/resolutionator"
-
-export SCREENTRAY_APP_NAME="ScreenTray.app"
-export SCREENTRAY_VOLUME_NAME="ScreenTray 1.2.0"
-export SCREENTRAY_APP_URL="https://screentray.com/download"
 
 export SONOS_APP_NAME="Sonos.app"
 export SONOS_VOLUME_NAME="Sonos"

@@ -23,6 +23,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Pre-Install](#pre-install)
     - [Install](#install)
     - [Post-Install](#post-install)
+    - [Global Hotkeys](#global-hotkeys)
     - [Newsyslog](#newsyslog)
     - [Customization](#customization)
   - [Versioning](#versioning)
@@ -41,9 +42,8 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Bash](https://www.gnu.org/software/bash)
     - [Bash Completion](http://bash-completion.alioth.debian.org)
     - [Bat](https://github.com/sharkdp/bat)
-    - [Certbot](https://certbot.eff.org)
+    - [blueutil](https://github.com/toy/blueutil)
     - [chruby](https://github.com/postmodern/chruby)
-    - [cloc](http://cloc.sourceforge.net)
     - [Crystal](https://crystal-lang.org)
     - [CTags](http://ctags.sourceforge.net)
     - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
@@ -56,10 +56,11 @@ project not be to your liking, feel free to fork and customize for your specific
     - [FLAC](https://www.xiph.org/flac)
     - [FZF](https://github.com/junegunn/fzf)
     - [Git](http://git-scm.com)
+    - [Git Sizer](https://github.com/github/git-sizer)
     - [GPG](https://www.gnupg.org)
     - [Graphics Magick](http://www.graphicsmagick.org)
     - [Graphviz](http://www.graphviz.org)
-    - [Mecurial](http://mercurial.selenic.com)
+    - [hexyl](https://github.com/sharkdp/hexyl)
     - [hr](https://github.com/LuRsT/hr)
     - [htop](http://hisham.hm/htop)
     - [HTTPie](https://github.com/jkbrzt/httpie)
@@ -69,7 +70,9 @@ project not be to your liking, feel free to fork and customize for your specific
     - [lame](http://lame.sourceforge.net)
     - [lnav](http://braumeister.org/formula/lnav)
     - [Lynis](https://github.com/CISOfy/lynis)
+    - [Magic Wormhole](https://magic-wormhole.readthedocs.io)
     - [Mac App Store](https://github.com/mas-cli/mas)
+    - [Minisign](https://jedisct1.github.io/minisign)
     - [Mosh](http://mosh.mit.edu)
     - [Namebench](https://code.google.com/p/namebench)
     - [NCurses Disk Usage](https://dev.yorhel.nl/ncdu)
@@ -77,6 +80,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Network Grep](http://ngrep.sourceforge.net)
     - [Node.js](http://nodejs.org)
     - [Noti](https://github.com/variadico/noti)
+    - [Nushell](https://github.com/nushell/nushell)
     - [OpenSSL](https://openssl.org)
     - [Overmind](https://github.com/DarthSim/overmind)
     - [Pandoc](https://pandoc.org)
@@ -87,21 +91,24 @@ project not be to your liking, feel free to fork and customize for your specific
     - [PostgreSQL](http://www.postgresql.org)
     - [Pretty Ping](http://denilson.sa.nom.br/prettyping)
     - [Pipe Viewer](http://www.ivarch.com/programs/pv.shtml)
-    - [Ranger](http://ranger.nongnu.org)
+    - [Ranger](https://ranger.github.io)
     - [Readline](http://tiswww.case.edu/php/chet/readline/rltop.html)
     - [Reattach to User Namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard)
     - [Redis](http://redis.io)
+    - [ripgrep](https://github.com/BurntSushi/ripgrep)
     - [Ruby Install](https://github.com/postmodern/ruby-install)
     - [Rust](https://www.rust-lang.org)
     - [SASSC](https://github.com/sass/sassc)
     - [ShellCheck](https://github.com/koalaman/shellcheck)
     - [Siege](https://www.joedog.org/siege-home)
     - [Sleepwatcher](http://www.bernhard-baehr.de)
+    - [Sox](http://sox.sourceforge.net/sox.html)
     - [Tag](https://github.com/jdberry/tag)
+    - [Tarsnap](https://www.tarsnap.com)
     - [Terraform](https://www.terraform.io)
     - [The Silver Surfer](https://github.com/ggreer/the_silver_searcher)
-    - [Tig](https://jonas.github.io/tig)
     - [tmux](http://tmux.sourceforge.net)
+    - [Tokie](https://github.com/XAMPPRocky/tokei)
     - [Tree](http://mama.indstate.edu/users/ice/tree)
     - [Vim](http://www.vim.org)
     - [Watch](https://gitlab.com/procps-ng/procps)
@@ -113,36 +120,33 @@ project not be to your liking, feel free to fork and customize for your specific
   software:
     - [Alfred](http://www.alfredapp.com)
     - [App Cleaner](http://www.freemacsoft.net/appcleaner)
+    - [Audio Hijack](https://www.rogueamoeba.com/audiohijack)
+    - [Balena Etcher](https://www.balena.io/etcher)
     - [Bartender](http://www.macbartender.com)
-    - [Brave](https://brave.com)
     - [Carbon Copy Cloner](http://www.bombich.com)
-    - [Cardhop](https://flexibits.com/cardhop)
     - [ClipGrab](https://clipgrab.org)
     - [Dash](http://kapeli.com/dash)
     - [Doxie](http://www.getdoxie.com)
     - [Dropbox](https://www.dropbox.com)
     - [Firefox](http://www.mozilla.com/en-US/firefox)
+    - [Fission](https://www.rogueamoeba.com/fission)
     - [Google Chrome](http://www.google.com/chrome)
-    - [HandBrake](http://handbrake.fr)
+    - [HandBrake](https://handbrake.fr)
     - [Hazel](http://www.noodlesoft.com/hazel.php)
     - [ImageOptim](http://imageoptim.pornel.net)
     - [iStat Menus](https://bjango.com/mac/istatmenus)
     - [iTerm2](http://www.iterm2.com)
-    - [Keybase](https://keybase.io)
+    - [KeyCastr](https://github.com/keycastr/keycastr)
     - [ksdiff](http://www.kaleidoscopeapp.com/ksdiff2)
-    - [Launch Control](http://www.soma-zone.com/LaunchControl)
-    - [Marp](https://yhatt.github.io/marp)
     - [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html)
     - [Muzzle](https://muzzleapp.com)
     - [Ngrok](https://ngrok.com)
     - [Numi](http://numi.io)
-    - [OpenEmu](http://openemu.org)
     - [OpenOffice](http://www.openoffice.org)
     - [OWASP Zed Attack Proxy (ZAP)](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
     - [Path Finder](http://cocoatech.com)
     - [Paw](https://paw.cloud)
     - [pgAdmin](http://www.pgadmin.org/index.php)
-    - [PSequel](http://www.psequel.com)
     - [Signal](https://signal.org)
     - [Spotify](https://www.spotify.com)
     - [Sublime Text 3](http://www.sublimetext.com)
@@ -151,29 +155,25 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Viscosity](https://www.sparklabs.com/viscosity)
     - [Visual Studio Code](https://code.visualstudio.com)
     - [VLC](http://www.videolan.org/vlc)
-    - [Witch](https://manytricks.com/witch)
-    - [Zoom](https://zoom.us)
 - Downloads, installs, and configures
     [App Store](http://www.apple.com/macosx/whats-new/app-store.html) applications.
     - [1Password](http://agilewebsolutions.com/products/1Password)
     - [Acorn](https://secure.flyingmeat.com/acorn)
     - [AquaPath](https://itunes.apple.com/us/app/aquapath/id424425207)
     - [Bear](https://bear.app)
-    - [CCMenu](http://ccmenu.org)
     - [Cocoa JSON Editor](http://www.cocoajsoneditor.com)
     - [Contrast](https://usecontrast.com)
     - [DaisyDisk](http://www.daisydiskapp.com)
     - [Fantastical](http://flexibits.com/fantastical)
     - [GarageBand](http://www.apple.com/ilife/garageband)
     - [Gifox](https://gifox.io)
-    - [Gradient](http://www.gradientapp.com)
     - [iMovie](http://www.apple.com/ilife/imovie)
-    - [iPhoto](http://www.apple.com/ilife/iphoto)
     - [Kaleidoscope](http://www.kaleidoscopeapp.com)
     - [Key Codes](https://manytricks.com/keycodes)
     - [Keymou](https://manytricks.com/keymou)
     - [Keynote](https://www.apple.com/keynote)
     - [Kindle](http://www.amazon.com/gp/feature.html?docId=1000464931)
+    - [LimeChat](http://limechat.net/mac)
     - [Leech](https://manytricks.com/leech)
     - [Marked 2](http://marked2app.com)
     - [Medis](http://getmedis.com)
@@ -192,21 +192,19 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Sip](http://sipapp.io)
     - [Tweetbot](http://tapbots.com/tweetbot/mac)
     - [WiFi Explorer](http://www.adriangranados.com/apps/wifi-explorer)
-    - [Witch](https://manytricks.com/witch)
-    - [xScope](http://iconfactory.com/software/xscope)
 - Downloads, installs, and configures software applications not supported via Homebrew or the App
   Store:
-    - [Audio Bridge](https://audiobridge.site)
     - [Aurora Blu-ray Copy](http://www.bluray-player-software.com/mac-bluray-dvd-copy.htm)
+    - [CleanShot](https://getcleanshot.com)
     - [Code Climate Test Reporter](https://docs.codeclimate.com/docs/configuring-test-coverage)
     - [Coolant](https://coolantformac.com)
     - [Docker](https://www.docker.com)
-    - [HandBrake CLI](http://handbrake.fr)
+    - [Git Filter Repo](https://github.com/newren/git-filter-repo)
+    - [HandBrake CLI](https://handbrake.fr/downloads2.php)
     - [IVPN](https://www.ivpn.net)
-    - [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle)
+    - [PixelSnap](https://getpixelsnap.com)
     - [Retrobatch](https://flyingmeat.com/retrobatch)
     - [Resolutionator](https://manytricks.com/resolutionator)
-    - [ScreenTray](https://screentray.com)
     - [Sonos](http://www.sonos.com)
     - [Sublime Text URL Handler](https://github.com/asuth/subl-handler)
 - Downloads, installs, and configures software extensions:
@@ -237,7 +235,7 @@ Current Version (stable):
 
     git clone https://github.com/bkuhlmann/mac_os-config.git
     cd mac_os-config
-    git checkout 9.4.0
+    git checkout 13.0.0
 
 Master Version (unstable):
 
@@ -254,6 +252,7 @@ Double check you have the following in place:
 
 1. A recent backup of your machine and a copy of your credentials to restore the backup.
 1. A copy of your of your Apple, backup server, and backup volume credentials.
+1. Xcode installed as per macOS requirements.
 
 ### Install
 
@@ -301,6 +300,34 @@ install scripts have been executed:
     - Disable guest account.
 - iStat Menus (double click, within the Applications folder, to install as a system preference).
 - Hazel (double click, within the Applications folder, to install as a system preference).
+
+### Global Hotkeys
+
+Several applications provide global hotkey support. These are the associations I use (which are also
+captured in the `restore.bom` as well):
+
+- **COMMAND + SPACE (hold):** Siri (open)
+- **COMMAND + SPACE:** Spotlight (open)
+- **CONTROL + OPTION + COMMAND + 1:** CleanShot (capture area)
+- **CONTROL + OPTION + COMMAND + 2:** CleanShot (capture fullscreen)
+- **CONTROL + OPTION + COMMAND + 3:** CleanShot (record video)
+- **CONTROL + OPTION + COMMAND + 4:** Gifox (capture area)
+- **CONTROL + OPTION + COMMAND + 5:** Gifox (capture window)
+- **CONTROL + OPTION + COMMAND + b:** Bartender (hidden menu toggle)
+- **CONTROL + OPTION + COMMAND + c:** Sip (copy color)
+- **CONTROL + OPTION + COMMAND + ENTER:** Keymo (move cursor by division)
+- **CONTROL + OPTION + COMMAND + k:** Keymo (cursor highlight show/hide)
+- **CONTROL + OPTION + COMMAND + m:** Moom (show/hide)
+- **CONTROL + OPTION + COMMAND + n:** Notification Center (show/hide)
+- **CONTROL + OPTION + COMMAND + p:** PixelSnap (show/hide)
+- **CONTROL + OPTION + COMMAND + r:** Resolutionator (selector)
+- **CONTROL + OPTION + COMMAND + s:** KeyCastr (show/hide)
+- **CONTROL + OPTION + COMMAND + ←:** Keymo (move cursor left)
+- **CONTROL + OPTION + COMMAND + ↑:** Keymo (move cursor up)
+- **CONTROL + OPTION + COMMAND + →:** Keymo (move cursor right)
+- **CONTROL + OPTION + COMMAND + ↓:** Keymo (move cursor down)
+- **CONTROL + OPTION + SPACE:** OmniFocus (quick entry)
+- **OPTION + SPACE:** Alfred (open)
 
 ### Newsyslog
 
